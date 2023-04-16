@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BuildProjectJar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9631a6b0-08f6-4150-b286-bbc52d6652ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oNcxHQEJon8iwCan422Qmpd3Ut" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Series">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.building.architect.Main" />
+      <module name="BuildProjectJar" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bulding.myseries.Series" />
+      <module name="BuildProjectJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bulding.myseries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Series" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Series" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9631a6b0-08f6-4150-b286-bbc52d6652ac" name="Default Changelist" comment="" />
+      <created>1613130733807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613130733807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613131940080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613131940080" />
+    <state width="1306" height="218" key="GridCell.Tab.0.bottom" timestamp="1613132326153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613132326153" />
+    <state width="1306" height="218" key="GridCell.Tab.0.center" timestamp="1613132326152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="218" key="GridCell.Tab.0.center/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613132326152" />
+    <state width="1306" height="218" key="GridCell.Tab.0.left" timestamp="1613132326151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="218" key="GridCell.Tab.0.left/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613132326151" />
+    <state width="1306" height="218" key="GridCell.Tab.0.right" timestamp="1613132326152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="218" key="GridCell.Tab.0.right/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613132326152" />
+    <state x="196" y="0" key="SettingsEditor" timestamp="1613134308306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="0" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613134308306" />
+    <state x="1852" y="-61" key="com.intellij.ide.util.TipDialog" timestamp="1613604422188">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="1852" y="-61" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1613604422188" />
+    <state x="1852" y="-153" width="607" height="536" key="find.popup" timestamp="1613604474276">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="1852" y="-153" width="607" height="536" key="find.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1613604474276" />
+    <state x="77" y="0" key="new project wizard" timestamp="1613132310870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="77" y="0" key="new project wizard/0.0.1366.728/1366.-303.1920.1040@0.0.1366.728" timestamp="1613132310870" />
+  </component>
+</project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7820fbb7-36ad-46a4-9576-d8262e42814a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nZyEIphq27FG38iuWA3JqguQ1D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Basic3.getApi">
+    <configuration name="ComplexJsonParseSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexJsonParseSelf" />
+      <module name="DemoProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basic2.getApi (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Basic2" />
+      <option name="METHOD_NAME" value="getApi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basic2.getApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoProject" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Basic2" />
+      <option name="METHOD_NAME" value="getApi" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basic3.getApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="files" />
+      <option name="MAIN_CLASS_NAME" value="files.Basic3" />
+      <option name="METHOD_NAME" value="getApi" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ComplexJsonParseSelf" />
+      <item itemvalue="TestNG.Basic2.getApi" />
+      <item itemvalue="TestNG.Basic2.getApi (1)" />
+      <item itemvalue="TestNG.Basic3.getApi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Basic3.getApi" />
+        <item itemvalue="TestNG.Basic2.getApi" />
+        <item itemvalue="TestNG.Basic2.getApi (1)" />
+        <item itemvalue="Application.ComplexJsonParseSelf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7820fbb7-36ad-46a4-9576-d8262e42814a" name="Default Changelist" comment="" />
+      <created>1611611794898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611611794898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1780" y="-248" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611708763443">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state x="1780" y="-248" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611708763443" />
+    <state x="2049" y="-214" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611612011536">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state x="2049" y="-214" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611612011536" />
+    <state x="2174" y="-14" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1611611891597">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state x="2174" y="-14" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611611891597" />
+    <state x="2122" y="-44" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611701193415">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state x="2122" y="-44" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611701193415" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1611709063784">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611709063784" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1611709063783">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611709063783" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1611709063783">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611709063783" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1611709063784">
+      <screen x="1366" y="-423" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1366.728/1366.-423.1920.1040@1366.-423.1920.1040" timestamp="1611709063784" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1611825896334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728/1366.-423.1920.1040@0.0.1366.728" timestamp="1611825896334" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+
+C:\Users\saade\Atlassian\Jira\bin\start-jira
+http://localhost:8080/rest/auth/1/session
+post:  {"username":"seyiadex1",
+"password":"jirapass22"}
+
+
+atlassian
+----------
+organization : seyi-adex
+seyi adex
+bin/startjira
+sadewuyi08@gmail.com
+jirapass11
+
+admin
+------
+sadewuyi08@gmail.com
+seyiadex1
+jirapass22
+
+From Jira page, on top right, Select Settings Icon > System > Attachments (under Advanced): Set Allow Attachments to ON

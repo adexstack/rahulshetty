@@ -1,0 +1,45 @@
+Please check out Postman Projects C:\rahulShetty\OAuth2RestAPI\Postman Projects OAuth\OAuth+2+contract.docx
+OAuth2
+-------
+>Why applications rely on Other(Google/facebook) Authentication
+OAuth2  is Industry standard authentication protocol
+No data breach headaches for application
+Need not to maintain user profile data
+Allows richer websites by allowing disparate applications to talk to each other
+
+> grant type: Difference between Client credentials and Authorization code (Select grant type from postman header to see the mandatory queryParams)
+Client credentials - Interaction Between application and resource server e.g; give me my twitter comments (only user and secret_id required),flight and hotel
+Authorization code - When human authorization is involved
+
+client
+clientID - id that identify the client
+clientSecretID - registers to google/facebook
+ResourceOwner - human (My profile data)
+Resource/Authorization Server - Google
+
+Ultimate Plan is generate Acces Token:
+User sign into Google by hitting google authorization server endpoint and get code
+Application will use this code to hit google resources server in back end to get (Access token, firstName,lastName,Email)
+Application grants access to user by validating Access token(which is stored in Browser)
+Note: If access token expires(user will be required to re-login in)
+
+Query Params to Get Code (Get from developers(contract)) -> Returns code
+-------------
+scope - needed profile info
+auth_url - google
+client_id - client id
+response_type - code       (OTP)
+redirect_uri - https://rahulshettyacademy.com/getCourse.php
+state - verifyfjdss       (optional security)
+
+Query Params to exchange code -. Returns access token
+-----------------------------
+code - generated code from above
+client_id -
+client_secret -
+redirect_uri - https://rahulshettyacademy.com/getCourse.php
+grant_type - authorization_code                   (client_credentials)
+
+actual request
+---------------
+access-token

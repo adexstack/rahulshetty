@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f33e1db9-4970-4d9b-a660-72605adadaa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gpJ2pUwNQsrp62FOwHC7swlbyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dataDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataDriven" />
+      <module name="ExcelDriven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dataDriven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f33e1db9-4970-4d9b-a660-72605adadaa5" name="Default Changelist" comment="" />
+      <created>1598805395169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598805395169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1918" y="-251" key="#Project_Structure" timestamp="1598805621496">
+      <screen x="1366" y="-429" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="-251" key="#Project_Structure/0.0.1366.728/1366.-429.1920.1040@1366.-429.1920.1040" timestamp="1598805621496" />
+    <state x="2106" y="-192" key="FileChooserDialogImpl" timestamp="1598805957531">
+      <screen x="1366" y="-429" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="-192" key="FileChooserDialogImpl/0.0.1366.728/1366.-429.1920.1040@1366.-429.1920.1040" timestamp="1598805957531" />
+    <state x="1991" y="-210" key="NewModule_or_Project.wizard" timestamp="1598805985160">
+      <screen x="1366" y="-429" width="1920" height="1040" />
+    </state>
+    <state x="1991" y="-210" key="NewModule_or_Project.wizard/0.0.1366.728/1366.-429.1920.1040@1366.-429.1920.1040" timestamp="1598805985160" />
+    <state x="1806" y="-335" key="SettingsEditor" timestamp="1598805853246">
+      <screen x="1366" y="-429" width="1920" height="1040" />
+    </state>
+    <state x="1806" y="-335" key="SettingsEditor/0.0.1366.728/1366.-429.1920.1040@1366.-429.1920.1040" timestamp="1598805853246" />
+  </component>
+</project>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="472d1cc1-c797-4004-ac4e-eb0049486169" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ml3NVVFJZS4CmTH7QiGGIQGh2M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Streamstest2.uniqueSort">
+    <configuration name="Streamstest1.regular" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StreamsTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Streamstest1" />
+      <option name="METHOD_NAME" value="regular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streamstest2.regular" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StreamsTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Streamstest2" />
+      <option name="METHOD_NAME" value="regular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streamstest2.uniqueSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StreamsTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Streamstest2" />
+      <option name="METHOD_NAME" value="uniqueSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1.regular" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StreamsTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <option name="METHOD_NAME" value="regular" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Streamstest2.uniqueSort" />
+        <item itemvalue="TestNG.Streamstest2.regular" />
+        <item itemvalue="TestNG.Streamstest1.regular" />
+        <item itemvalue="TestNG.test1.regular" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="472d1cc1-c797-4004-ac4e-eb0049486169" name="Default Changelist" comment="" />
+      <created>1610054310853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610054310853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1610054405437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610054405437" />
+    <state x="406" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1610054609311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610054609311" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1610062166955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610062166955" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1610062166954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610062166954" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1610062166954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610062166954" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1610062166954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.-460.1920.1040@0.0.1366.728" timestamp="1610062166954" />
+  </component>
+</project>
